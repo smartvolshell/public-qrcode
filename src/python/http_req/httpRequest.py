@@ -26,7 +26,7 @@ user_agents = [
 
 header = {
     'User-Agent': user_agents[random.randint(0, 6)],
-    'cookie': 'visit-wxb-id=73b325eddc23e6d5d4795b2ffb548cf6; wxb_fp_id=3384828578; PHPSESSID=l6m6efqlbl5o8hur7lu50cnqe2; Hm_lvt_5859c7e2fd49a1739a0b0f5a28532d91=1520180287; Hm_lpvt_5859c7e2fd49a1739a0b0f5a28532d91=1520349471'
+    'cookie': 'your cookie'
 }
 
 
